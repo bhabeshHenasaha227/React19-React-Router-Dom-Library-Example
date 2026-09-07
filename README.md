@@ -108,6 +108,44 @@ Here is the purpose of each important file in the current repository:
 
 ---
 
+## 🖼️ Application Preview
+
+The following screenshots show the current application route by route. Each image is captured from the running Vite app at a desktop viewport.
+
+### 🏠 Home — `/`
+
+![Home page preview](public/screenshots/home.png)
+
+### 👤 About — `/about`
+
+![About page preview](public/screenshots/about.png)
+
+### 📬 Contact — `/contact`
+
+![Contact page preview](public/screenshots/contact.png)
+
+### 🔀 Dynamic User — `/user/10`
+
+![Dynamic user page preview](public/screenshots/user.png)
+
+### 🛍️ Products — `/products`
+
+![Products page preview](public/screenshots/products.png)
+
+### 📱 Phone — `/products/phone`
+
+![Phone product page preview](public/screenshots/phone.png)
+
+### 💻 Laptop — `/products/laptop`
+
+![Laptop product page preview](public/screenshots/laptop.png)
+
+### 🚫 Not Found — `/route-that-does-not-exist`
+
+![Not found page preview](public/screenshots/not-found.png)
+
+---
+
 ## 🧭 Router Setup
 
 The application wraps the route tree in `BrowserRouter`:
