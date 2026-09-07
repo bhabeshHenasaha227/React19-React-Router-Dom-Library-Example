@@ -112,6 +112,16 @@ Here is the purpose of each important file in the current repository:
 
 The following screenshots show the current application route by route. Each image is captured from the running Vite app at a desktop viewport.
 
+## 🎬 Demo Video
+
+Watch a short walkthrough of the portfolio, dynamic user route, nested product pages, and custom 404 page:
+
+<video src="public/demo.mp4" controls muted playsinline width="100%">
+  Your browser does not support embedded video. [Download the demo video](public/demo.mp4).
+</video>
+
+[▶️ Download or open the demo video](public/demo.mp4)
+
 ### 🏠 Home — `/`
 
 ![Home page preview](public/screenshots/home.png)
